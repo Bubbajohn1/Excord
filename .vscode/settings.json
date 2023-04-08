@@ -1,0 +1,10 @@
+{
+    "krnlLsp.diagnostics.disable": [
+        "undefined-global"
+    ],
+    "Lua.diagnostics.disable": [
+        "undefined-global",
+        "cast-local-type",
+        "need-check-nil"
+    ]
+}
